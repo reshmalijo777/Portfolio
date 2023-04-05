@@ -9,7 +9,7 @@ body {
 header{
 width: 100%;
 height: 10vh;
-background: url(../assets/images/tree-field.jpg);
+background: url(../images/tree-field.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 margin-bottom: 50px;
@@ -79,19 +79,19 @@ color: #1dd6e4;
 }
 
 .img1{
-  background-image: url(../Assets/images/images.jpg);
+  background-image: url(../images/images.jpg);
 }
 .img2 {
-  background-image: url(../Assets/images/music.jpeg);
+  background-image: url(../images/music.jpeg);
 }
 .img3 {
-  background-image: url(../Assets/images/read.jpeg);
+  background-image: url(../images/read.jpeg);
 }
 .img4{
-  background-image: url(../Assets/images/read.jpeg)
+  background-image: url(../images/read.jpeg)
 }
 .img5 {
-  background-image: url(../Assets/images/music.jpeg)
+  background-image: url(../images/music.jpeg)
 }
 
 
